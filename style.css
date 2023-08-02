@@ -1,0 +1,43 @@
+body{
+    background-colo:red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heading-h{
+    font-size: 40;
+    text-decoration:dashed;
+    font-weight: 600;
+    margin: 0%;
+    margin-bottom:8px;
+    text-align:center;
+    background-color:red;
+    display: block;
+}
+.heading-p{
+    color:red;
+    font-size: 24px;
+    margin: 0;
+}
+
+#image-div{
+    background-color:red;
+    text-align: center;
+    padding: 50px 150px;
+}
+.article{
+    width: 50;
+    margin: 0 auto;
+}
+.article-heading{
+    font-size: 28px;
+    text-align: center;
+    font-weight: 500;
+}
+li{
+    color:red;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+.article{
+    background-color:red;
+}
