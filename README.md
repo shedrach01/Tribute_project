@@ -2,6 +2,9 @@
 
 This project is a brief history and tribute about a great man who saved a billion lives .
 
+![simple](./image/tribute-page-main-image.jpg)
+
+
 ## Background
 
 - CSS
@@ -9,7 +12,7 @@ This project is a brief history and tribute about a great man who saved a billio
 
 ## Usage 
 
-> Clone the repository to your local machine 
+> Clone  
 
 ```sh
 $ git clone https://github.com/shedrach01/Tribute_project/tree/master
